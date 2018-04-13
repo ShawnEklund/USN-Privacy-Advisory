@@ -28,6 +28,7 @@ The U.S. Navy does not use the information associated with cookies to track indi
 
 ## Use of Cookies on navy.mil: 
 Navy.mil creates a session cookie when you visit and destroys it as soon as you close your browser.
+
 Akamai is a service that software speeds the delivery of content and applications for customers through using automatic, intermediate, and temporary information storage to make the onward transmission of that information to other recipients more efficient. Temporary storage processes retain information only so long as is reasonably necessary to transmit the data. Intermediate storage processes retain information only so long as is reasonably necessary for continued transmission, to maintain the security of the network and the data, to monitor and improve website performance, for related administrative purposes. Akamai does not collect, use, or disclose PII.
 
 Foresee Results survey software measures user satisfaction and assesses website effectiveness through optional surveys presented to website visitors. The information gathered from these surveys is used to identify and prioritize improvements to functional website elements and content for an improved visitor experience. Survey participants provide ratings and feedback related to a series of questions about website performance, aesthetics, usability, and the user experience; however, participants are not required to provide any PII. Tier 2 cookies are used to remember if the user has already been offered the survey and to ensure that users are prompted only once every 60 days.
