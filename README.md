@@ -1,2 +1,2 @@
 # USNprivacypolicy
-## Repository for the public privacy policy for www.navy.mil 
+## Repository for www.navy.mil privacy advisory
